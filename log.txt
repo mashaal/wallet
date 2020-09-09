@@ -803,4 +803,8 @@ trude{Down Arrow}{Down Arrow}{Down Arrow}{Down Arrow}{Up Arrow}{Up Arrow}{Enter}
 {Left Shift}{Left Shift}{Left Shift}make{Enter}{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}
 {Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
 {Left Shift}{Left Shift}wallet wallet
-wallet wallet xxxxx yyyyyyyyyyyy
+wallet wallet xxxxx yyyyyyyyyyyytask manager{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}scheduler{Enter}
+task{Enter}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+  ` reflexology chart{Enter}
