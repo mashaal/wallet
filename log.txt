@@ -807,4 +807,7 @@ wallet wallet xxxxx yyyyyyyyyyyytask manager{Backspace}{Backspace}{Backspace}{Ba
 task{Enter}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
 {Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
 {Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
-  ` reflexology chart{Enter}
+  ` reflexology chart{Enter}{Backspace}{Backspace}{Backspace}{Backspace}{Enter}cyborg{Enter}{Backspace}
+{Right Arrow}{Backspace}{Enter}+rhino{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Esc}
+{Left Shift}loft{Enter}{Esc}loft{Enter}{Esc}loft{Enter}{Esc}
+{Esc}{Esc}sweep{Enter}{Esc}{Esc}edgeedgesrf{Enter}{Esc}
