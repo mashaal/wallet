@@ -810,4 +810,17 @@ task{Enter}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
   ` reflexology chart{Enter}{Backspace}{Backspace}{Backspace}{Backspace}{Enter}cyborg{Enter}{Backspace}
 {Right Arrow}{Backspace}{Enter}+rhino{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}{Esc}
 {Left Shift}loft{Enter}{Esc}loft{Enter}{Esc}loft{Enter}{Esc}
-{Esc}{Esc}sweep{Enter}{Esc}{Esc}edgeedgesrf{Enter}{Esc}
+{Esc}{Esc}sweep{Enter}{Esc}{Esc}edgeedgesrf{Enter}{Esc}subspace.
+art{Enter}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc} bitma{Down Arrow}
+{Down Arrow}{Down Arrow}{Up Arrow}{Enter}0{Enter}{Left Shift}{Left Shift}{Left Shift}{Enter}
+{Delete}{Delete}{Delete}{Delete}{Delete}{Left Shift}parts{Enter}{Left Shift}{Left Shift}
+{Enter}{Ctrl-Z}{Left Ctrl}copy{Enter}{Enter}{Left Shift}{Left Shift}{Left Shift}{Esc}
+{Esc}not{Enter}{Right Shift}Dis{Backspace}scord{Enter}{Right Shift}{Right Shift}Its a keylogger hooked up to my computer which I mostly use for art stuff a{Backspace}
+so kinda publishing my desk based art pras{Backspace}a{Backspace}ctice atm in real tim{Backspace}e if that makes sense{Backspace}.{Right Shift}
+Admin stuff mod{Backspace}e{Backspace}i{Backspace}ode{Backspace}{Backspace}{Backspace}
+delling and chatting allkinda k{Backspace}get logged{Backspace}.{Right Shift}Still trying tot{Backspace}{Backspace}figure out if its a good idea cos im totally self surveilling{Backspace}
+, but i guess thats p[a{Backspace}{Backspace}art of it{Backspace}.{Right Shift}This message will end up on there{Backspace}{Backspace}
+{Backspace}{Backspace}{Backspace}{Backspace}{Right Shift}it toocd Desk{Backspace}{Backspace}{Backspace}{Backspace}
+{Right Shift}\Desktop{Enter}d{Backspace}{Right Shift}cd Desktop{Enter}{Right Shift}cd Modified{Backspace}
+{Right Shift}Key{Backspace}{Backspace}{Backspace}{Right Shift}{Right Shift}{Right Shift}_KeyCatcher{Enter}
+.\uploader.ps1{Enter}
