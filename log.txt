@@ -1577,3 +1577,10 @@ join{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shi
 {Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}boolea{Down Arrow}{Down Arrow}{Down Arrow}{Down Arrow}
 {Down Arrow}{Down Arrow}{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Enter}{Ctrl-Z}{Left Ctrl}{Left Shift}
 join{Enter}{Left Shift}{Right Shift}{Right Shift}{Right Shift}Hand_2_mesh.\uploader.ps1{Enter}
+{Left Shift}{Left Shift}{Delete}{Delete}{Delete}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}{Left Ctrl}{Esc}
+{Esc}{Esc}{Esc}{Left Shift}{Left Shift}{Left Ctrl}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}{Left Ctrl}
+{Ctrl-Z}{Left Ctrl}{Left Ctrl}{Delete}{Delete}{Delete}{Delete}{Delete}{Left Shift}{Left Shift}
+zHAND){Backspace}{Right Shift}{Right Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}_2_RTPhandy    .\uploader.ps1{Enter}
