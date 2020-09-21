@@ -1584,3 +1584,244 @@ join{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shi
 {Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
 {Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
 {Esc}{Esc}{Esc}{Esc}{Esc}{Esc}_2_RTPhandy    .\uploader.ps1{Enter}
+{Enter}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}  oin{Enter}foot{Enter}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}join{Enter}join{Enter}{Left Shift}
+{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}group{Enter}{Left Shift}
+{Left Shift}{Left Shift}{Esc}{Esc}{Esc}{Esc}{Right Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}foot_1ungroup{Enter}filltetedge{Enter}fillet{Down Arrow}{Down Arrow}{Down Arrow}{Enter}
+{Left Shift}{Enter}{Left Shift}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}{Left Ctrl}{Left Ctrl}{Left Ctrl}{Left Shift}
+{Left Shift}{Enter}{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Enter}
+{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}join{Enter}bolle{Backspace}{Backspace}
+{Backspace}ole{Down Arrow}{Down Arrow}{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Ctrl-Z}{Left Ctrl}
+{Left Shift}group{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}showed{Enter}{Left Shift}repair{Down Arrow}{Enter}{Left Shift}{Esc}{Esc}
+{Esc}showed{Enter}{Enter}{Left Shift}{Enter}{Esc}{Esc}{Esc}{Left Shift}
+{Left Shift}showed{Backspace}d{Enter}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+conv{Down Arrow}{Up Arrow}{Down Arrow}{Enter}{Left Shift}{Enter}{Enter}{Ctrl-Z}{Left Ctrl}
+{Left Shift}ungroup{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Ctrl}{Left Ctrl}
+{Left Shift}{Left Ctrl}{Left Ctrl}{Left Shift}{Left Shift}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}join{Enter}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}showedges{Enter}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Left Shift}{Left Shift}{Left Shift}{Left Shift}edges{Backspace}a{Backspace}a{Backspace}
+{Backspace}{Backspace}{Backspace}{Backspace}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}{Esc}analabooleanboolean{Down Arrow}
+{Down Arrow}{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Enter}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}boolea{Down Arrow}{Down Arrow}
+{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Left Shift}{Left Shift}{Left Shift}{Enter}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}
+trim{Enter}{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}{Esc}{Esc} {Enter}
+{Enter}{Esc}{Esc}{Esc}{Enter}{Esc}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}
+{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Ctrl-Z}
+{Left Ctrl}{Left Shift}{Left Shift}join{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}split{Enter}{Left Shift}{Esc}{Esc}{Esc}
+group{Enter}{Left Shift}split{Enter}{Enter}{Enter}{Ctrl-Z}{Left Ctrl}{Left Shift}
+{Esc}{Esc}{Esc}ungroup{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}patch{Enter}{Enter}{Left Ctrl}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}
+planr{Backspace}{Down Arrow}{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Enter}{Left Shift}{Left Shift}
+{Left Shift}{Esc}{Esc}{Left Shift}{Left Shift}{Esc}{Esc}{Esc}  patch{Enter}
+{Esc}{Left Shift}{Esc}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Enter}{Ctrl-Z}
+{Left Ctrl}{Left Shift}{Left Shift}holle{Backspace}{Esc}{Left Shift}{Left Shift}owplanar{Down Arrow}
+{Down Arrow}{Down Arrow}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Enter}{Left Shift}edge{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Esc}{Esc}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}
+{Esc}{Esc}{Ctrl-Z}{Left Ctrl}{Esc}{Esc}{Esc}{Ctrl-Z}{Left Ctrl}{Left Shift}
+  patc{Down Arrow}{Enter}{Left Shift}{Esc}{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}
+{Esc}{Esc}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}  {Enter}0{Enter}
+{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}patch{Enter}{Left Shift}{Left Shift}{Left Shift}{Enter}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}{Left Shift}
+{Left Shift}{Left Shift}{Esc}{Left Shift}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}1  {Enter}
+{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}foot{Down Arrow}{Enter}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Ctrl}{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}{Right Shift}
+{Right Shift}{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}foot_1_RTPtrim,{Backspace}
+{Enter}{Enter}{Ctrl-Z}{Left Ctrl}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Enter}{Esc}{Esc}{Esc}{Esc}{Left Shift}{Left Shift}split{Enter}
+{Left Shift}{Enter}{Esc}{Esc}{Esc}{Enter}{Enter}{Enter}{Enter}
+{Esc}{Esc}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}meshfr{Enter}{Enter}{Esc}{Esc}{Esc}meshnur{Down Arrow}
+{Down Arrow}{Up Arrow}{Enter}{Enter}{Ctrl-Z}{Left Ctrl}{Left Ctrl}{Left Shift}{Left Shift}{Ctrl-Z}
+{Left Ctrl}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Ctrl}{Left Ctrl}{Esc}{Esc}
+{Esc}{Left Shift}{Left Shift}patch{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Enter}{Left Shift}join{Enter}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Esc}{Esc}{Esc}{Enter}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}JOIN{Enter}{Left Shift}{Left Shift}{Esc}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Esc}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Ctrl}{Ctrl-Z}{Left Ctrl}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}eg{Backspace}dge{Backspace}
+{Backspace}{Backspace}{Backspace}repa{Backspace}{Backspace}{Backspace}{Backspace}a{Backspace}
+edgea{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}showe{Enter}{Esc}{Esc}
+eddg{Backspace}{Backspace}gea{Backspace}{Backspace}{Backspace}{Backspace}{Backspace}show{Backspace}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}repairedgereshowe{Enter}
+{Enter}{Esc}{Esc}{Esc}{Esc}{Left Shift}{Left Shift}edgeanaunjoin{Enter}{Left Shift}
+{Left Shift}{Esc}{Esc}{Esc}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}
+{Esc}{Esc}{Left Shift}{Left Shift}{Left Ctrl}{Left Ctrl}{Left Shift}{Left Shift}{Esc}{Esc}
+{Esc}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift} patch{Enter}
+{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}patch{Enter}
+{Esc}{Esc}{Esc}{Esc}{Left Shift}{Left Shift}{Left Shift}{Esc}`patch{Enter}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}join{Enter}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Enter}{Delete}{Delete}{Esc}{Esc}{Delete}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}``join{Enter}{Left Shift}{Left Shift}join{Enter}{Delete}
+patch{Enter}{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}join{Enter}{Delete}
+ubkj{Backspace}join{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}ubj{Backspace}
+{Backspace}njoin{Enter}{Left Shift}{Left Shift}{Esc}{Esc}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}sweep1{Backspace}
+{Enter}sweep1{Enter}{Enter}{Enter}patch{Enter}{Enter}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Ctrl-Z}{Ctrl-Z}
+{Ctrl-Z}{Ctrl-Z}{Ctrl-Z}{Ctrl-Z}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+join{Enter}{Left Shift}{Delete}{Left Shift}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}{Left Ctrl}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}{Esc}{Left Shift}{Left Shift}{Delete}pat{Enter}
+{Left Shift}{Enter}{Left Shift}{Left Shift}join{Enter}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}join{Enter}{Ctrl-Z}{Left Ctrl}{Left Shift}unjoin{Enter}
+{Esc}{Esc}{Left Shift}{Enter}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Delete}
+{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Delete}{Left Shift}{Left Shift}patch{Enter}
+{Enter}1{Backspace}3{Backspace}{Left Shift}{Left Shift}{Left Shift}2020join{Enter}
+{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Delete}patch{Enter}{Enter}{Left Shift}{Left Shift}join{Enter}
+{Left Shift}{Left Shift}{Left Shift}{Left Ctrl}{Left Shift}unjoin{Enter}{Esc}{Esc}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+patch{Enter}{Enter}patch{Enter}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+join{Enter}{Left Shift}{Left Ctrl}{Ctrl-X}{Left Ctrl}patch{Enter}{Left Shift}{Enter}
+4040{Enter}{Left Shift}{Left Shift}{Enter}{Left Shift}join{Enter}{Left Shift}{Esc}
+{Esc}{Esc}{Left Shift}{Esc}join{Enter}{Left Shift}{Esc}{Esc}{Ctrl-Z}
+{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}patch{Enter}2020join{Enter}{Left Shift}{Esc}
+{Esc}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}join{Enter}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}join{Enter}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}
+{Left Shift}join{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}group{Enter}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Ctrl}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}trim{Enter}
+{Left Shift}{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Esc}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}trim{Enter}{Left Shift}{Enter}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}{Left Ctrl}
+{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}
+{Esc}{Esc}patch{Enter}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+cura{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Delete}{Ctrl-Z}{Left Ctrl}unjoin{Enter}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}trim{Enter}{Enter}
+{Enter}{Enter}{Delete}{Esc}{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Delete}{Left Shift}{Left Shift}{Left Shift}
+patch{Enter}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Delete}{Delete}
+{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}patch{Enter}{Esc}{Esc}{Esc}
+{Enter}{Esc}{Esc}{Esc}{Ctrl-Z}{Left Ctrl}{Esc} {Enter}
+{Esc}{Esc}{Esc}{Delete}{Delete}{Delete}patch{Enter}{Enter}{Esc}
+{Esc}{Esc}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Enter}{Left Shift}{Esc}
+{Delete}{Delete}{Enter}{Esc}{Delete}{Enter}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}{Left Ctrl}
+{Ctrl-Z}{Left Ctrl}{Esc}{Esc}{Left Shift}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}{Ctrl-Z}{Left Ctrl}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}sweep1{Enter}{Enter}{Enter}{Left Shift}
+{Left Shift}{Enter}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+join{Enter}sweep1{Enter}{Esc}{Esc}{Esc}{Esc}{Esc}{Enter}
+{F1}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}` sweep1{Backspace}2{Enter}
+{Enter}{Enter}{Esc}{Esc}{Left Shift}{Delete}{Left Shift}split{Enter}{Esc}
+{Esc}{Esc}{Enter}{Esc}{Esc}{Enter}{Enter}{Left Shift}
+{Left Shift}patch{Enter}{Enter}{Enter}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}meshtrim{Enter}{Enter}{Esc}{Esc}{Esc}meshspli{Enter}
+{Enter}{Left Shift}{Enter}{Left Shift}{Esc}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}meshtrim{Enter}
+{Esc}{Esc}{Esc}{Esc}meshtrim{Enter}{Left Shift}{Esc}{Esc}{Esc}
+{Esc}{Left Shift}{Left Shift}{Delete}{Left Shift}patch\{Backspace}{Enter}{Left Shift}{Left Shift}
+{Left Shift}{Enter}2020{Enter}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}ungroup{Enter}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Ctrl-Z}{Left Ctrl}{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}pla{Enter}
+{Left Shift}{Left Shift}{Enter}{Right Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}patch{Enter}
+{Enter}{Left Shift}{Delete}{Left Shift}{Ctrl-Z}{Left Ctrl}{Delete}{Left Shift}{Enter}
+split{Enter}{Enter}{Enter}{Enter}{Left Shift}{Left Shift}{Esc}{Left Shift}{Enter}
+{Left Shift}{Left Shift}{Left Shift}split{Enter}{Enter}{Enter}{Enter}{Left Shift}{Left Shift}
+{Esc}{Esc}{Esc}{Left Shift}{Left Shift}sweep2{Enter}{Left Shift}{Left Shift}{Esc}
+{Esc}{Esc}{Esc}{Esc} split{Enter}{Enter}{Enter}{Esc}{Esc}
+{Esc}{Left Shift}sweep2{Enter}{Enter}{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}sweep2{Enter}{Enter}{Left Shift}{Enter}{Esc}
+{Esc}{Delete}{Enter}{Esc}{Esc}{Enter}{Esc}{Enter}
+{Enter}{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}join{Enter}{Left Shift}move{Enter}
+{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}
+{Left Shift}{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}010planar{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Enter}{Left Shift}{Left Shift}join{Enter}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}planr{Down Arrow}{Down Arrow}{Enter}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Ctrl}
+{Left Shift}{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Delete}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}join{Enter}{Esc}{Esc}{Esc}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}`join{Enter}{Left Shift}move{Enter}{Left Shift}{Ctrl-Z}
+{Left Ctrl}{Left Shift}move{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}groun{Backspace}
+p{Enter}{Left Shift}{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}ungroup{Enter}
+{Left Shift}{Esc}{Esc}{Esc}meshcreate{Down Arrow}{Down Arrow}{Enter}{Enter}{Left Shift}
+{Esc}{Left Shift}explode{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Esc}planar{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Enter}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}split{Enter}
+{Enter}{Enter}{Esc}planar{Enter}{Esc}{Esc}{Esc}planars{Enter}
+{Enter}{Left Shift}split{Enter}{Enter}{Enter}{Esc}{Esc}{Esc}`planar{Down Arrow}
+{Down Arrow}{Down Arrow}{Enter}{Esc}{Esc}split{Enter}{Enter}{Enter}{Enter}
+{Esc}{Esc}{Left Shift}{Esc}{Esc} {Enter}{Enter}{Esc}{Left Shift}
+patch{Enter}{Esc}{Esc}{Enter}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}
+{Esc}planar{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Left Shift}{Left Shift}{Left Shift}{Enter}
+{Left Shift}{Left Shift}{Left Shift}{Esc}{Left Shift}{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}showed{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}
+{Esc}cur{Enter}{Left Shift}{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}0310230{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}{Ctrl-Z}{Ctrl-Z}{Left Ctrl}{Esc}{Esc}
+{Esc}{Esc}{Left Shift}{Left Shift}{Ctrl-Alt-Del}{Ctrl-Z}{Left Ctrl}{Left Shift}{Ctrl-Z}{Left Ctrl}
+{Right Shift}{Right Shift}{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}foot_1_ready10planar{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Left Shift}{Left Shift}
+{Enter}{Left Shift}{Left Shift}{Left Shift}{Delete}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Ctrl-Z}{Left Ctrl}
+{Ctrl-Z}{Left Ctrl}{Right Shift}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Ctrl}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Left Shift}{Left Shift}foot_1+   ]0{Enter}150{Enter}{End}
+{Delete}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}  `explode{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+patch{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Enter}{Left Shift}
+{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Esc}{Left Shift}{Ctrl-Z}{Left Ctrl}{Esc}{Esc}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}{Left Shift}{Left Shift}{Left Shift}   {Enter}
+{Left Shift}1{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Enter}{Left Shift}{Left Shift}{Enter}
+{Left Shift}{Left Shift}{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Enter}{Left Shift}{Left Shift}
+{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Esc}{Left Shift}{Esc}  patch{Enter}{Esc}
+{Enter}{Right Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}patch{Enter}
+{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}j{Backspace}holloe{Backspace}{Esc}
+join\{Enter}join{Enter}{Left Shift}{Left Shift}bo{Enter}{Left Shift}{Left Shift}
+{Left Shift}{Enter}{Enter}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Enter}{Enter}{Esc}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}
+group{Enter}{Left Shift}{Left Shift}{Esc}{Esc}{Esc}{Esc}{Esc}{Right Shift}
+foot_2showed{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}{Left Shift}{Esc}
+{Esc}{Left Shift}pqa{Backspace}at{Enter}patch{Enter}{Enter}{Ctrl-Z}
+{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}{Esc}{Esc}
+{Left Shift}{Left Shift}{Esc}{Esc}{Esc}{Esc}{Esc}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}foot2{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}split{Enter}{Esc}{Esc}{Esc}ungroup{Enter}{Esc}
+split{Enter}{Enter}{Enter}{Left Shift}{Delete}{Delete}{Left Shift}{Left Shift}{Left Shift}
+join{Enter}{Esc}{Esc}{Esc}{Left Shift}boolea{Down Arrow}{Down Arrow}{Down Arrow}
+{Down Arrow}{Down Arrow}{Enter}{Enter}{Esc}{Esc}{Ctrl-Z}{Left Ctrl}{Left Shift}showed{Enter}
+{Left Shift}{Enter}{Left Shift}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Left Shift}{Left Shift}{Delete}{Delete}{Ctrl-Z}{Left Ctrl}{Left Shift}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Ctrl-Z}{Ctrl-Z}{Ctrl-Z}{Ctrl-Z}{Ctrl-Z}{Left Ctrl}{Right Shift}
+{Right Shift}{Delete}{Left Shift}{Left Shift}foot_2_RTPpatch{Enter}{Left Shift}{Left Shift}{Enter}{Ctrl-Z}
+{Left Ctrl}{Left Shift}\planar{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Left Shift}{Enter}patch{Enter}
+{Left Shift}{Left Shift}{Enter}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Enter}
+plane{Backspace}{Backspace}{Backspace}{Backspace}at{Enter}{Left Shift}{Left Shift}{Left Shift}
+{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}.\uploader.ps1{Enter}
