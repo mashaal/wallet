@@ -1825,3 +1825,16 @@ join{Enter}{Esc}{Esc}{Esc}{Left Shift}boolea{Down Arrow}{Down Arrow}{Down Arro
 {Left Shift}{Left Shift}{Enter}{Left Shift}{Ctrl-Z}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Enter}
 plane{Backspace}{Backspace}{Backspace}{Backspace}at{Enter}{Left Shift}{Left Shift}{Left Shift}
 {Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}.\uploader.ps1{Enter}
+{Left Shift}{Left Shift}{Delete}zungroup{Enter}{Left Shift}booles{Backspace}{Down Arrow}{Down Arrow}
+{Down Arrow}{Down Arrow}{Down Arrow}{Enter}{Esc}{Esc}{Esc}{Esc}{Left Ctrl}{Ctrl-Z}
+{Left Ctrl}{Left Shift}join'{Backspace}{Enter}{Esc}{Esc}{Esc}{Esc}{Left Shift}
+{Left Shift}0o10{Enter}{Left Ctrl}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Right Shift}{Right Shift}
+foot_2{Enter}{Left Shift}{Delete}{Left Shift}20{Enter}20{Enter}200{Enter}
+{Left Shift}{Left Shift}{Left Shift}0{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Esc}
+{Esc}{Esc}{Left Shift}{Right Shift}{Right Shift}{Right Shift}{Right Shift}Shannon_FlamerShanon{Backspace}{Backspace}
+{Right Shift}{Right Shift}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}non_Flamer   + .\uploader.s1{Enter}
