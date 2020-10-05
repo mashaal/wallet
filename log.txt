@@ -1837,4 +1837,8 @@ foot_2{Enter}{Left Shift}{Delete}{Left Shift}20{Enter}20{Enter}200{Enter}
 {Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
 {Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
 {Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
-{Esc}non_Flamer   + .\uploader.s1{Enter}
+{Esc}non_Flamer   + .\uploader.s1{Enter}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}
+{Esc}{Esc}{Esc}{Esc}{Esc}{Esc}{Left Win}{Left Win}{Left Win}  .
+.{Backspace}.\uploader.ps1{Enter}
