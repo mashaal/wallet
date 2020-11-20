@@ -2131,4 +2131,5 @@ bottombottom_hatcura{Enter}{Left Shift}{Left Shift}{Left Shift}{Left Shift}{Left
 {Esc}{Left Shift}{Left Shift}{Enter}{Esc}{Esc}{Left Shift}{Left Shift}{Left Shift}{Left Shift}
 {Left Shift}{Left Shift}{Left Shift}{Left Shift}length{Enter}length{Enter}{Enter}{Left Shift}
 {Left Shift}{Enter}{Left Shift}length{Enter}{Left Shift}{Enter}{Delete}{Delete}{Left Shift}
-{Left Shift}{Left Shift}{Left Shift}
+{Left Shift}{Left Shift}{Left Shift}cd d{Backspace}{Right Shift}Desktop{Enter}{Right Shift}{Right Shift}{Right Shift}{Right Shift}cd Modified_KeyCatcher{Enter}
+.\uploader.ps1{Enter}
